@@ -726,6 +726,10 @@ h3 {
     color: #333333!important;
 }
 
+.margin{
+    padding-top: 50px;
+}
+
 .med-width-whitespace {
     max-width: 800px;
     margin: auto auto auto auto;
